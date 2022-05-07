@@ -1,0 +1,5 @@
+
+              MI BANCO    
+Fecha: Wed May 04 21:00:29 CEST 2022
+Operacion: Deposito  de  70.0 euros
+      Cuenta: number-661
